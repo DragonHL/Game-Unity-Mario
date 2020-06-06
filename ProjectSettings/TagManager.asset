@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - coin
+  - point
+  - kill_top_mushroom
+  - kill_middle_mushroom
+  - mushroom
+  - duck_top
+  - duck_bottom
+  - bird_top
+  - bird_bottom
+  - kill_top_mushroom1
+  - kill_middle_mushroom1
+  - kill_top_mushroom2
+  - kill_middle_mushroom2
+  - kill_top_mushroom3
+  - kill_middle_mushroom3
+  - sound
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - Platforms
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
